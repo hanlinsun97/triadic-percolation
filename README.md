@@ -14,10 +14,10 @@ This repository contains implementation of triadic percolation in both Julia and
 - `GC_triadic_from_data.c`: Simulation of triadic percolation with real structural network (`bio_edgelist_clean.txt` or `bn_mouse_clean.txt`) and regulatory network with Poisson degree distribution.
 
 # How to use
-The Julia code is implemented in Julia 1.8. Packages used are `LinearAlgebra`, `SpecialFunctions` and `Random`.
+The Julia codes are implemented in Julia 1.8. Packages used are `LinearAlgebra`, `SpecialFunctions` and `Random`.
 
 # Citing
-If you find the code useful in your research, please cite the following paper:
+If you find the codes useful in your research, please cite the following paper:
 
 ```latex
 

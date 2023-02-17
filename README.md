@@ -1,4 +1,5 @@
 # Percolation on networks with triadic interactions
+![image](https://user-images.githubusercontent.com/26411352/219805636-294a3c74-b284-46dd-93c0-f31febaed311.png)
 
 Codes for triadic percolation on Poisson networks, scale-free networks and real networks.
 

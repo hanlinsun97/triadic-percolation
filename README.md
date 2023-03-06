@@ -20,8 +20,10 @@ C codes:
 - `GC_triadic_from_data.c`: Simulation of triadic percolation with real structural network (`bio_edgelist_clean.txt` or `bn_mouse_clean.txt`) and regulatory network with Poisson degree distribution.
 
 MATLAB codes:
+- `poisson_simulation_theory.m`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results, implemented in MATLAB. The dynamic can be illustrated as a movie.
 
 Python codes:
+- `poisson_simulation_theory.m`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results. implemented in Python.
 
 Datasets:
 - `bio_edgelist_clean.txt`: Human bio grid network. Self links and multilinks are removed. The network is considered undirected in the simulation.
@@ -30,6 +32,7 @@ Datasets:
 
 # How to use
 The Julia codes are implemented in Julia 1.8. Packages used are `LinearAlgebra`, `SpecialFunctions` and `Random`.
+The Python codes requires packages `NetworkX`, `NumPy`, `SciPy`.
 
 # Citing
 If you find the codes useful in your research, please cite the following paper:

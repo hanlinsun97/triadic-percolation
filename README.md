@@ -26,8 +26,8 @@ Python codes:
 - `poisson_simulation_theory.m`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results. implemented in Python.
 
 Datasets:
-- `bio_edgelist_clean.txt`: Human bio grid network. Self links and multilinks are removed. The network is considered undirected in the simulation.
-- `bn_mouse_clean.txt`: Mouse brain network. Self links and multilinks are removed. The network is considered undirected in the simulation.
+- `bio_edgelist_clean.txt`: An edge list of human bio grid network. Self links and multilinks are removed. The network is considered undirected in the simulation.
+- `bn_mouse_clean.txt`: An edge list of mouse brain network. Self links and multilinks are removed. The network is considered undirected in the simulation.
 
 
 # How to use

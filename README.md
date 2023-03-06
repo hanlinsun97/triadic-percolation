@@ -3,7 +3,7 @@
 
 Codes for triadic percolation on Poisson networks, scale-free networks and real networks written by Hanlin Sun (<sunhanlin15@gmail.com>) and Ginestra Bianconi (<ginestra.bianconi@gmail.com>).
 
-This repository contains Julia and C codes that have been optimized for the algorithm on large network models and datasets. We also provide MATLAB and Python codes that can be used alternatively for testing the algorithms on smaller (up to thousend nodes) networks.
+This repository contains Julia and C codes that have been optimized for the algorithm on large network models and datasets. We also provide MATLAB and Python codes that can be used alternatively for testing the algorithms on smaller (up to thousands nodes) networks.
 
 Link to the paper: https://arxiv.org/pdf/2204.13067.pdf
 

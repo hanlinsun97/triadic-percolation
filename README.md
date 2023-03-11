@@ -5,7 +5,7 @@ Codes for triadic percolation on Poisson networks, scale-free networks and real 
 
 This repository contains Julia and C codes that have been optimized for the algorithm on large network models and datasets. We also provide MATLAB and Python codes that can be used alternatively for testing the algorithms on smaller (up to thousands nodes) networks.
 
-Link to the paper: https://arxiv.org/pdf/2204.13067.pdf
+Link to the paper: https://rdcu.be/c7oBL
 
  Julia codes: 
 
@@ -40,11 +40,19 @@ If you find the codes useful in your research, please cite the following paper:
 
 ```latex
 
-@article{sun2022triadic,
-  title={Triadic interactions induce blinking and chaos in the connectivity of higher-order networks},
-  author={Sun, Hanlin and Radicchi, Filippo and Kurths, Juergen and Bianconi, Ginestra},
-  journal={arXiv preprint arXiv:2204.13067},
-  year={2022}
+@article{Sun2023,
+author={Sun, Hanlin and Radicchi, Filippo and Kurths, J{\"u}rgen and Bianconi, Ginestra},
+title={The dynamic nature of percolation on networks with triadic interactions},
+journal={Nature Communications},
+year={2023},
+month={Mar},
+day={10},
+volume={14},
+number={1},
+pages={1308},
+issn={2041-1723},
+doi={10.1038/s41467-023-37019-5},
+url={https://doi.org/10.1038/s41467-023-37019-5}
 }
 ```
 # License

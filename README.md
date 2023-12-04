@@ -23,7 +23,7 @@ MATLAB codes:
 - `poisson_simulation_theory.m`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results, implemented in MATLAB. The dynamic can be illustrated as a movie.
 
 Python codes:
-- `poisson_simulation_theory.m`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results. implemented in Python.
+- `poisson_simulation_theory.py`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results. implemented in Python.
 
 Datasets:
 - `bio_edgelist_clean.txt`: An edge list of human bio grid network. Self links and multilinks are removed. The network is considered undirected in the simulation.
